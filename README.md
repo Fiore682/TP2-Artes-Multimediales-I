@@ -1,4 +1,4 @@
-		#Título de la Obra: **Nonato y Póstumo**
+	#Título de la Obra: **Nonato y Póstumo**
 
 	#Año: 2023
 
